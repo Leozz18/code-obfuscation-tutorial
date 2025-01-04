@@ -17,14 +17,11 @@ L'offuscamento del codice è una pratica che trasforma il codice sorgente in una
 
 ---
 
-## 🗂️ Struttura del Repository  
-code-obfuscation-tutorial/ │ ├── README.md # Questo file
-├── c-code/ # Esempi e guide sul codice C
-│ ├── example1.c # Codice semplice prima e dopo l'offuscamento
-│ ├── example2.c # Tecniche avanzate di offuscamento
-│ └── obfuscation-techniques.md
-├── python-code/ # Esempi e guide sul codice Python
-│ ├── example1.py
-│ ├── example2.py
-│ └── obfuscation-techniques.md
-└── LICENSE # Informazioni sulla licenza
+
+
+
+
+
+
+
+
