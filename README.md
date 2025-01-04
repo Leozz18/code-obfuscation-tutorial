@@ -22,10 +22,6 @@ Tecniche e suggerimenti: Esplora strategie comuni di offuscamento e le loro appl
 Avvertenze: Comprendi le implicazioni legali ed etiche dell'offuscamento del codice.
 
 # License
-[(Back to top)](#table-of-contents)
-
-You can also mention what license the project uses. I usually add it like this:
-
 [MIT license](./LICENSE)
 
 
